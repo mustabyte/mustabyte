@@ -110,3 +110,42 @@ and analyzing student records with persistent JSON storage.
   alt="Mustab's Most Used Languages"
 />
 </p>
+
+<br>
+
+<h2 align="center">Beyond the Terminal 🎭</h2>
+
+<p align="center">
+  when the laptop closes, the plot thickens —<br>
+  F1 weekends 🏎️ • K-drama marathons 🎬 • romance, comedy, horror & thriller nights 🌙<br>
+  and dark romance books that were definitely supposed to be “just one chapter” 📖
+</p>
+
+<br>
+
+<h2 align="center">Let's Connect ✉️</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/mustabshera-binte-junayed">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-355E3B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y1RjFFOCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1NXYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODU1IDAtMi4xMzYgMS40NDktMi4xMzYgMi45Mzl2NS42NjdIOS4zNTRWOSBoMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI5NHpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMS44ODctLjc2My0xLjg4Ny0xLjcxNyAwLS45NzUuNzY1LTEuNzE4IDEuOTMxLTEuNzE4IDEuMTY2IDAgMS44ODcuNzQzIDEuOTExIDEuNzE4IDAgLjk1NC0uNzQ1IDEuNzE3LTEuOTM1IDEuNzE3em0xLjc3NyAxMy4wMTdIMy41NThWOUg3LjExNHYxMS40NXpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4="
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:mustabshera44@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-4A6741?style=for-the-badge&logo=gmail&logoColor=F5F1E8"
+      alt="Email"
+    />
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>thanks for stopping by &lt;3</i><br>
+  🌿
+</p>
