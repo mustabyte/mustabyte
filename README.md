@@ -7,3 +7,17 @@
   <b>Curious mind. Analytical heart. Always building.</b><br>
   Exploring the intersection of data, machine learning & real-world problems.
 </p>
+## 🌿 about_me.py
+
+```python
+class Mustab:
+    def __init__(self):
+        self.name = "Mustabshera Binte Junayed"
+        self.role = "CSE Student"
+        self.goal = "Data Scientist"
+        self.interests = ["Data Science", "Machine Learning", "Formula 1"]
+        self.motto = "Learn. Build. Grow."
+
+   def current_status(self):
+    return "Learning, building & probably debugging ☕"
+```
